@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">facci.Yorly.Parrraga.ConvertidorDeLibras</string>
+    <string name="txtLibra">Ingrese el valor en Libras</string>
+    <string name="btnConvertir">CONVERTIR</string>
+</resources>
